@@ -8,6 +8,10 @@
 아두이노 DHT11 온습도 센서를 활용하여 주변 온습도를 측정하고, 측정된 값을 웹사이트에 실시간을 보여준다.
 
 
+<p align="center">
+  <img src="https://github.com/seob7/arduProject/assets/67796853/3efb66c0-9de2-4d9f-99e9-001ba463f019">
+</p>
+
 
 
 
