@@ -12,10 +12,14 @@
   <img src="https://github.com/seob7/arduProject/assets/67796853/3efb66c0-9de2-4d9f-99e9-001ba463f019">
 </p>
 
+<br><br>
+<p align="center">
+  <img src="https://github.com/seob7/arduProject/assets/67796853/091f2fda-ae2d-46cb-a683-58fc313b0a16">
+</p>
+
+
+
 <br><br><br><br><br>
-
-
-
 
 <div align="center">
   Platforms & Languages & Tools <br><br>
