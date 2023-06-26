@@ -14,7 +14,7 @@
 </head>
 <body>
 	<div id="container">
-		<h1>온습도 웹</h1>
+		<h1>TEMP HUMID WEB</h1>
 		<div>Temperature: <span id="temp"></span>°C</div>
 		<div>Humidity: <span id="humid"></span>%</div>
 	</div>
