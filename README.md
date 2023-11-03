@@ -9,7 +9,7 @@
 
 <br><br><br>
 <p align="center">
-  <img src="https://github.com/seob7/arduProject/assets/67796853/3efb66c0-9de2-4d9f-99e9-001ba463f019">
+  <img src="https://github.com/seob7/arduProject/assets/67796853/00b60e4f-c17b-4a68-8a02-4cfdbc522ed0">
 </p>
 
 <br><br>
