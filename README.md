@@ -14,7 +14,7 @@
 
 <br><br>
 <p align="center">
-  <img src="https://github.com/seob7/arduProject/assets/67796853/091f2fda-ae2d-46cb-a683-58fc313b0a16">
+  <img src="https://github.com/seob7/arduProject/assets/67796853/a79d353a-3dd9-4761-9591-b2514d9d3b56">
 </p>
 
 
