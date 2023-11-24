@@ -11,7 +11,7 @@ float temp;
 SoftwareSerial mySerial(2,3); //RX,TX
 
 String ssid = "AndroidHotspot."; //WIFI SSID
-String PASSWORD = "pokl03630."; //WIFI PASSWORD
+String PASSWORD = "PASSWORD"; //WIFI PASSWORD
 String host = "54.180.25.22"; //SERVER IP
 
 void connectWifi(){
